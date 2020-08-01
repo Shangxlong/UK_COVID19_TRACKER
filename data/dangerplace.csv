@@ -1,0 +1,5 @@
+Region,City,long,lat,AvgR,R,max(growth_rate),min(growth_rate)
+South East,Guildford,-0.931027,51.215485,0.9,0.8 to 1,+1,-3
+London,London,-0.118092,51.509865,0.95,0.8 to 1,+1,-5
+East of England,Cambridge,0.119167,52.205276,0.9,0.8 to 1,+2,-3
+South West,Bristol,-2.58791,51.454514,0.9,0.7 to 1,+2,-5
